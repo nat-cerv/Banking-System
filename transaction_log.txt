@@ -1,0 +1,5 @@
+Deposited $200.0 into Checking Account for Daniel A
+Deposited $86.93 into Credit Account for Daniel A
+Withdrew $364.79 from Savings Account for Daniel A
+Transferred $57.56 from Checking to Savings for Daniel A
+Paid $300.0 from Daniel A to Daniel B
